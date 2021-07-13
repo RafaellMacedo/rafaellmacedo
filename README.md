@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on .<b>B1 Global Software</b>
 - 🌱 I’m currently learning .<b>HP, Javascript, Java for Android and Web, Ruby On Rails, React Native and VueJs</b>
-- My <a url="https://www.linkedin.com/in/rafael-macedo-b13222116">linkedin</a>
+
+<a href="https://www.linkedin.com/in/rafael-macedo-b13222116" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
