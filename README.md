@@ -1,12 +1,13 @@
-### Hello, 👋I Welcome to my repositoy, I'm Rafael and develop web.
+### Hello 👋I, Welcome to my repositoy, I'm Rafael and develop web.
 
 
-**RafaellMacedo/rafaellmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- **RafaellMacedo/rafaellmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on .DB1 Global Software
-- 🌱 I’m currently learning .PHP, Javascript, Java for Android and Web, Ruby On Rails, React Native and VueJs
+- 🔭 I’m currently working on .<b>B1 Global Software</b>
+- 🌱 I’m currently learning .<b>HP, Javascript, Java for Android and Web, Ruby On Rails, React Native and VueJs</b>
+- My <a url="https://www.linkedin.com/in/rafael-macedo-b13222116">linkedin</a>
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
