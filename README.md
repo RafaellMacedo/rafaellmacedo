@@ -27,6 +27,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rafaellmacedo&theme=dracula&hide_border=true" alt="rafaellmacedo" />
 </p>
 
+<a href="https://github.com/AVS1508" style="align-items: center;">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaellmacedo&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
+
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
