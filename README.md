@@ -8,19 +8,18 @@
 - 🔭 I’m currently working on <b>DB1 Global Software</b>
 - 🌱 I’m currently learning <b>PHP, Javascript, Java for Android and Web, Ruby On Rails, React Native and VueJs</b>
 
-<div class="cardLanguage">
-  <h4><b>About my knowledge in Programing Languages</b></h4>
-  <p align="center">
-    <a href="https://www.php.net/" target="_blank">
-      <img align="left" alt="php" width="50px" src="https://www.php.net/images/logos/new-php-logo.svg"/>
-    </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-      <img align="left" alt="javascript" width="40px" src="https://img.icons8.com/color/452/javascript--v1.png"/>
-    </a>
-    <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-  </p>
-</div>
+### 🛠 &nbsp;About my knowledge in Programing Languages
+![PHP](https://img.shields.io/badge/-Php-333333?style=for-the-badge&logo=php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java)
+![Ruby](https://img.shields.io/badge/-Ruby-333333?style=for-the-badge&logo=ruby)
 
+#### &nbsp; Front-end
+![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![VueJS](https://img.shields.io/badge/-VueJs-333333?style=for-the-badge&logo=v)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
 
 <a href="https://www.linkedin.com/in/rafael-macedo-b13222116" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
