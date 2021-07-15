@@ -23,6 +23,8 @@
 
 <a href="https://www.linkedin.com/in/rafael-macedo-b13222116" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
+<a href="https://rafaellmacedo.github.io/firstProjectInMyLife/" target="_blank">My first project using HTML, CSS and Javascript</a>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rafaellmacedo&theme=dracula&hide_border=true" alt="rafaellmacedo" />
 </p>
